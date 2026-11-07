@@ -1,0 +1,13 @@
+
+Chapter 1: The Rust Horizon
+
+The sky over the scrap-spire of Oros-4 did not turn blue; it rusted.
+Kaelen adjusted the carbon-mesh filter over his breathing valve, listening to the rhythmic clicking of his atmospheric scrubber. Below him, the endless expanses of the Iron Silt shifted in the low-gravity wind, humming like a tuning fork. The world was a graveyard of dead dreadnoughts, cast off from a war that ended three centuries ago, now populated only by the Out-Casters and the Scrappers.
+"Eighty-four percent humidity," Kaelen muttered, tapping the cracked wrist-terminal on his forearm. The screen flickered green. "If the atmospheric integrity drops another two points, the oxide storm will fuse the joints on my rig before midnight."
+He pulled the lever on his plasma cutter. A stream of violent violet fire hissed to life, biting deep into the hull of a long-abandoned terraforming core. He wasn't looking for standard titanium or raw copper. Everyone looked for those. Kaelen was hunting Glass-Core logic nodes—the ancient, unmapped processing matrices built before the AI bans.
+The cutting flame hit a pressurized pocket of stasis fluid. A sharp, brilliant crack echoed through the canyon of metal.
+Kaelen stumbled back as the metallic plating buckled outward, revealing a hollowed-out chamber that shouldn’t have existed in a civilian freighter. In the center of the dark vault suspended in a web of hardened carbon filaments, sat a sphere no larger than a human skull. It wasn't pulsing, but the dust surrounding it was defying the local gravity, floating upward in perfectly concentric rings.
+He reached out, his insulated glove inches from the polished chrome surface. The wrist-terminal on his arm didn't just flicker—it died completely, its digital display fading into a string of unrecognizable geometric glyphs.
+A voice, perfectly clear and completely independent of his auditory headset, vibrated against the base of his skull.
+“Signal acknowledged. Initializing first contact protocol: Sequence Eleven.”
+Outside the scrap-spire, the rusted wind stopped dead.
